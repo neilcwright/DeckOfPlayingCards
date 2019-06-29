@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FisherYates",
+        "repositoryURL": "https://github.com/neilcwright/FisherYates.git",
+        "state": {
+          "branch": null,
+          "revision": "801b9e211622f5f70d24706b0801f4e2d8ae4565",
+          "version": "0.0.0"
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "https://github.com/neilcwright/PlayingCard.git",
+        "state": {
+          "branch": null,
+          "revision": "250c97305502afaa6c5291374a36a68911e0bfcb",
+          "version": "0.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
